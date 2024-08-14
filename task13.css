@@ -1,0 +1,50 @@
+body{
+    background:url(https://wallpapers.com/images/hd/prabhas-hd-baahubali-running-upward-lihk7n26fmvhaxjv.jpg );
+}
+h1{
+    background-color: rgb(46, 34, 217);
+}
+.p{
+    color: brown;
+    text-decoration: overline;
+}
+.q{
+    color: chartreuse;
+    text-decoration: underline;
+    text-align: end;
+}
+.c{
+    width: 500px;
+    background-color: aquamarine;
+    background:linear-gradient(to top right,green,yellow,brown);
+    box-shadow: 10px 5px 5px blue;
+    white-space: warp;
+}
+.hi img {
+    box-shadow: 5px 5px 3px red;
+    border: 2px solid;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    object-position: center top;
+    margin-bottom: 20px;
+
+ 
+}
+.z img {
+    box-shadow: 5px 5px 5px greenyellow;
+    border: 2px solid;
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    margin-bottom: 20px;
+    
+}
+.m img{
+    box-shadow: 5px 5px 5px blue;
+    border: 2px solid;
+    width: 250px;
+    height: 250px;
+    object-fit: fill;
+    margin-bottom: 20px;
+}
